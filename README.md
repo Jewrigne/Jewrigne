@@ -44,7 +44,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
@@ -54,36 +54,19 @@
 
 <!-- GITHUB STATS -->
 <!-- GITHUB STATS -->
-<h2 style="color:#2563EB;">📊 Statistiques GitHub</h2>
-
 <div align="center">
   <img
-    height="170em"
-    src="https://github-readme-stats.vercel.app/api?username=Jewrigne&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-  />
-  <img
-    height="170em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jewrigne&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=Jewrigne&show_icons=true&theme=tokyonight"
   />
 </div>
 
-<br/>
-
-<div align="center">
-  <img
-    height="170em"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Jewrigne&theme=tokyonight&hide_border=true"
-  />
-</div>
-
-<br/>
 
 
 <!-- ACTIVITY -->
 <h2 style="color:#2563EB;">⚡ Activité</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JewrigneCoder&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jewrigne&theme=tokyo-night"/>
 </p>
 
 <br/>
