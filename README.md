@@ -58,6 +58,19 @@
 
 
 <br/>
+<h3 align="center">📊 Étoiles & Stats</h3>
+
+<div align="center">
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jewrigne&layout=compact&theme=dark" alt="Top Langs" />
+
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jewrigne&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+
+  <!-- Streak Stats -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jewrigne&theme=dark" alt="GitHub Streak" />
+</div>
+
 
 
 <!-- GITHUB STATS -->
