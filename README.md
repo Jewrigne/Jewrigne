@@ -2,10 +2,10 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <div align="center">
   <h1 style="color:#2563EB;">
-    Cheikh Ahmadou Bamba Mbacké Seck
+    Salut 👋, c'est Cheikh Ahmadou Bamba Mbacké Seck
   </h1>
   <h3 style="color:#475569;">
-    Développeur Frontend • React • Tailwind • UI/UX
+    Développeur Frontend
   </h3>
 
   <p>
