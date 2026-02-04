@@ -52,13 +52,32 @@
 
 <br/>
 
+
 <!-- GITHUB STATS -->
-<!-- GITHUB STATS -->
+<h2 style="color:#2563EB;">📊 Statistiques GitHub</h2>
+
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Jewrigne&show_icons=true&theme=tokyonight"
+    height="170em"
+    src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+  />
+  <img
+    height="170em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
   />
 </div>
+
+<br/>
+
+<div align="center">
+  <img
+    height="170em"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=tokyonight&hide_border=true"
+  />
+</div>
+
+<br/>
+
 
 
 
