@@ -38,27 +38,21 @@
 <h2 style="color:#2563EB;">🛠️ Compétences techniques</h2>
 
 <p>
- <div style="display:flex; flex-wrap:wrap; gap:10px;">
-  <div style="background-color:#f3f4f6; padding:10px; border-radius:10px; display:inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  </div>
-  <div style="background-color:#f3f4f6; padding:10px; border-radius:10px; display:inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  </div>
-  <div style="background-color:#f3f4f6; padding:10px; border-radius:10px; display:inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  </div>
-  <div style="background-color:#f3f4f6; padding:10px; border-radius:10px; display:inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  </div>
-  <div style="background-color:#f3f4f6; padding:10px; border-radius:10px; display:inline-block;">
-    <img src="./assets/icnes/bootstrap-logo.svg" width="40"/>
-  </div>
-  <div style="background-color:#f3f4f6; padding:10px; border-radius:10px; display:inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
-  </div>
-  <!-- Continue avec les autres logos de la même façon -->
-</div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/> &nbsp; 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/> &nbsp; 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> &nbsp; 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/> &nbsp; 
+  <img src="./assets/icnes/bootstrap-logo.svg" width="40"/> &nbsp; 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/> &nbsp; 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/> &nbsp; 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40"/> &nbsp; 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/> &nbsp; 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> &nbsp; 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/> &nbsp; 
+  <img src="./assets/icnes/sublimetext-icon-logo.svg" width="30"/> &nbsp; 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/> &nbsp; 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-original.svg" width="40"/> &nbsp; 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-original.svg" width="40"/>
 
 </p>
 
