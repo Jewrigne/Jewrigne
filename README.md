@@ -58,21 +58,20 @@
 
 
 <br/>
-<h3 align="center">📊 Étoiles & Stats</h3>
+<!-- <h3 align="center">📊 Étoiles & Stats</h3>
 
 <div align="center">
-  <!-- Top Languages -->
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jewrigne&layout=compact&theme=dark" alt="Top Langs" /> &nbsp;
 
-  <!-- GitHub Stats -->
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jewrigne&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /> &nbsp;
 
-  <!-- Streak Stats -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jewrigne&theme=dark" alt="GitHub Streak" />
 </div>
 
-
-<br/>
+                                    PARTIE A REVOIR
+<br/> -->
 
 
 
