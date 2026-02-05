@@ -88,7 +88,7 @@
 
 <!-- FOOTER -->
 <p align="center" style="color:#64748B;">
-  © 2026 — Développé avec passion 💙
+  © 2026 Jewrigne Coder — Développé avec passion 💙
 </p>
 
 
