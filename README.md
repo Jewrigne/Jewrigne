@@ -1,36 +1,33 @@
 <!-- HEADER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=02C028&height=200&section=header&text=Jewrigne%20Coder&fontSize=50&fontColor=05070D&animation=fadeIn&fontAlignY=35&desc=Développeur%20Web%20Full-Stack%20—%20React%20%26%20Laravel&descAlignY=55&descSize=18&descColor=05070D" width="100%"/>
+</div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-  <h1>
-    Salut 👋, c'est Cheikh Ahmadou Bamba Mbacké Seck
-  </h1>
-  <h3>
-    Développeur Web Full-Stack — React & Laravel
-  </h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=02C028&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile+%F0%9F%91%8B;Je+m'appelle+Cheikh+Ahmadou+Bamba+Mbacké+Seck;Développeur+Full-Stack+junior;React+%2B+Laravel+%2B+MySQL" alt="Typing SVG"/>
+</div>
 
-  <p>
-    Développeur Full-Stack junior formé en React et Laravel. J'ai conçu et développé
-    seul deux applications complètes de bout en bout — dont une pour un client réel
-    et une pour ma propre entreprise. Actuellement en Master 1, ouvert aux opportunités
-    d'alternance, de poste ou de mission freelance.
-  </p>
+<br/>
 
+<div align="center">
   <a href="https://portfolio-nine-taupe-egkm21o60o.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-02C028?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-02C028?style=for-the-badge&logo=vercel&logoColor=05070D"/>
   </a>
   <a href="https://www.linkedin.com/in/bamba-seck-89a003247/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-02C028?style=for-the-badge&logo=linkedin&logoColor=05070D"/>
   </a>
   <a href="mailto:cheikhounaseck529@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-02C028?style=for-the-badge&logo=gmail&logoColor=05070D"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Jewrigne&label=Visiteurs&color=02C028&style=for-the-badge"/>
 </div>
 
 <br/>
 
 <!-- ABOUT -->
-<h2>👨‍💻 À propos</h2>
+<h2 align="center">👨‍💻 À propos</h2>
+
+<p align="center" width="700">
 
 - 🎯 Développeur **Full-Stack junior**, spécialisé **React (frontend)** et **Laravel (backend)**
 - 🚀 2 applications complètes livrées en solo — de l'interface à l'API jusqu'au déploiement
@@ -38,71 +35,97 @@
 - 🎓 Actuellement en Master 1 (Conception et développement d'applications Web, Full-Stack et Gaming)
 - 🌍 Basé à Touba, Sénégal — ouvert à l'alternance, à un poste ou à des missions freelance
 
+</p>
+
 <br/>
 
 <!-- PROJECTS -->
-<h2>🚀 Projets phares</h2>
+<h2 align="center">🚀 Projets phares</h2>
 
-<table>
+<table align="center">
   <tr>
-    <td width="50%">
-      <b>Empire Bâtiment Plus</b> — Mission freelance<br/>
+    <td width="50%" valign="top">
+      <b>🏗️ Empire Bâtiment Plus</b> — Mission freelance<br/><br/>
       Site vitrine et devis en ligne pour une entreprise de BTP à Dakar.<br/>
-      Frontend, API et base de données gérés en solo.<br/>
-      <code>React</code> <code>Laravel</code> <code>MySQL</code> <code>Sanctum</code><br/>
-      <a href="https://empirebatimentplus.sn/" target="_blank">🔗 Voir le site</a>
+      Frontend, API et base de données gérés en solo.<br/><br/>
+      <code>React</code> <code>Laravel</code> <code>MySQL</code> <code>Sanctum</code><br/><br/>
+      <a href="https://empirebatimentplus.sn/" target="_blank">
+        <img src="https://img.shields.io/badge/Voir_le_site-02C028?style=flat-square&logo=googlechrome&logoColor=05070D"/>
+      </a>
     </td>
-    <td width="50%">
-      <b>Touba Pescheria</b> — Projet entrepreneurial<br/>
+    <td width="50%" valign="top">
+      <b>🐟 Touba Pescheria</b> — Projet entrepreneurial<br/><br/>
       Plateforme e-commerce de vente de produits surgelés, co-fondée avec 2 associés.<br/>
-      Catalogue, achat en ligne, authentification et rôles.<br/>
-      <code>React</code> <code>Laravel</code> <code>MySQL</code> <code>Sanctum</code><br/>
-      <a href="https://touba-pescheria.vercel.app/" target="_blank">🔗 Voir le site</a>
+      Catalogue, achat en ligne, authentification et rôles.<br/><br/>
+      <code>React</code> <code>Laravel</code> <code>MySQL</code> <code>Sanctum</code><br/><br/>
+      <a href="https://touba-pescheria.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Voir_le_site-02C028?style=flat-square&logo=googlechrome&logoColor=05070D"/>
+      </a>
     </td>
   </tr>
 </table>
 
 <p align="center">
   📁 Détails complets de ces projets et des autres sur mon
-  <a href="https://portfolio-nine-taupe-egkm21o60o.vercel.app/">portfolio</a>
+  <a href="https://portfolio-nine-taupe-egkm21o60o.vercel.app/"><b>portfolio</b></a>
 </p>
 
 <br/>
 
 <!-- SKILLS -->
-<h2>🛠️ Compétences techniques</h2>
+<h2 align="center">🛠️ Compétences techniques</h2>
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" width="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-original.svg" width="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="42"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="42"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="42"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="42"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" width="42"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="42"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-original.svg" width="42"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42"/>
+</p>
+
+<br/>
+
+<!-- STATS -->
+<h2 align="center">📊 Statistiques GitHub</h2>
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Jewrigne&show_icons=true&hide_title=true&bg_color=05070D&title_color=02C028&icon_color=02C028&text_color=9AA3B5&border_color=141A2E&border_radius=16"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jewrigne&layout=compact&hide_title=true&bg_color=05070D&title_color=02C028&text_color=9AA3B5&border_color=141A2E&border_radius=16"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jewrigne&background=05070D&stroke=141A2E&ring=02C028&fire=02C028&currStreakLabel=02C028&sideLabels=9AA3B5&currStreakNum=F5F7FA&sideNums=F5F7FA&dates=9AA3B5&border_radius=16"/>
 </p>
 
 <br/>
 
 <!-- ACTIVITY -->
-<h2>⚡ Activité</h2>
+<h2 align="center">⚡ Activité récente</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jewrigne&theme=github-green"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jewrigne&bg_color=05070D&color=02C028&line=02C028&point=F5F7FA&area=true&hide_border=true"/>
+</p>
+
+<br/>
+
+<!-- SNAKE -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jewrigne/Jewrigne/output/github-contribution-grid-snake.svg" width="100%"/>
 </p>
 
 <br/>
 
 <!-- FOOTER -->
-<p align="center">
-  © 2026 Cheikh Ahmadou Bamba Mbacké Seck
-</p>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=02C028&height=100&section=footer"/>
+  <p>© 2026 Cheikh Ahmadou Bamba Mbacké Seck — Jewrigne Coder</p>
+</div>
