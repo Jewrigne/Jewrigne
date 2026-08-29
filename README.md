@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=02C028&height=200&section=header&text=Jewrigne%20Coder&fontSize=50&fontColor=05070D&animation=fadeIn&fontAlignY=35&desc=D%C3%A9veloppeur%20Web%20Full-Stack%20%E2%80%94%20React%20%26%20Laravel&descAlignY=55&descSize=18&descColor=05070D" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=02C028&height=200&section=header&text=Jewrigne%20Coder&fontSize=50&fontColor=05070D&animation=fadeIn&fontAlignY=35&desc=Developpeur%20Web%20Full-Stack%20-%20React%20et%20Laravel&descAlignY=55&descSize=18&descColor=05070D" width="100%"/>
 </div>
 
 <div align="center">
