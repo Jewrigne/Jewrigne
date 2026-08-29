@@ -98,8 +98,8 @@
 <h2 align="center">📊 Statistiques GitHub</h2>
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Jewrigne&show_icons=true&hide_title=true&bg_color=05070D&title_color=02C028&icon_color=02C028&text_color=9AA3B5&border_color=141A2E&border_radius=16"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jewrigne&layout=compact&hide_title=true&bg_color=05070D&title_color=02C028&text_color=9AA3B5&border_color=141A2E&border_radius=16"/>
+    <img height="165em" src="https://github-readme-stats-lyart-psi-36.vercel.app/api?username=Jewrigne&show_icons=true&hide_title=true&bg_color=05070D&title_color=02C028&icon_color=02C028&text_color=9AA3B5&border_color=141A2E&border_radius=16"/>
+  <img height="165em" src="https://github-readme-stats-lyart-psi-36.vercel.app/api/top-langs/?username=Jewrigne&layout=compact&hide_title=true&bg_color=05070D&title_color=02C028&text_color=9AA3B5&border_color=141A2E&border_radius=16"/>
 </p>
 
 <p align="center">
@@ -112,7 +112,7 @@
 <h2 align="center">⚡ Activité récente</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jewrigne&bg_color=05070D&color=02C028&line=02C028&point=F5F7FA&area=true&hide_border=true"/>
+    <img src="https://github-readme-activity-graph-psi-beryl.vercel.app/graph?username=Jewrigne&bg_color=05070D&color=02C028&line=02C028&point=F5F7FA&area=true&hide_border=true"/>
 </p>
 
 <br/>
